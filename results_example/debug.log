@@ -1,0 +1,10 @@
+CRITICAL:06/03/2025 21:26:59: ___ debug: new run : 21:26:59
+INFO:06/03/2025 21:27:20: ___ create_manual_timetable: start
+INFO:06/03/2025 21:27:20: ___ weekend: 2718 / workday: 5190 / outcome: 2703
+INFO:06/03/2025 21:27:20: ___ predictable cash (mean): 54098 per month: 12436 per week
+INFO:06/03/2025 21:27:20: ___ create_manual_timetable: end
+INFO:06/03/2025 21:27:28: ___ create_gen_timetable: start
+INFO:06/03/2025 21:27:28: ___ before genetic: last generation 0 : cash 12465: best generation -1
+DEBUG:06/03/2025 21:40:37: ___ in-process: curr generation 99 : cash 17754: best generation 90
+INFO:06/03/2025 21:52:01: ___ after genetic: last generation 190 : cash 17754: best generation 90
+INFO:06/03/2025 21:52:01: ___ create_gen_timetable: end
